@@ -3,6 +3,7 @@ import NavBar from './components/NavBar';
 import Footer from './components/Footer';
 import DataTable from 'components/DataTable';
 import BarChart from 'components/BarChart';
+import DonutChart from 'components/DonutChart';
 
 
 function App() {
@@ -26,7 +27,7 @@ function App() {
       
       <h5>Todas as vendas</h5>
      
-      <BarChart/>
+      <DonutChart/>
     </div>
     
     </div>
