@@ -17,7 +17,7 @@ function App() {
 
       <div className="col-sm-6">
 
-      <h5>Todas as vendas</h5>
+      <h5>Todas as Vendas</h5>
 
       <BarChart/>
       
